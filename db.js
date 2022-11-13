@@ -1,4 +1,4 @@
-require('dotenv').config({ path: '..\\stack-overflow-clone\\backend\\.env' });
+//require('dotenv').config({ path: '..\\stack-overflow-clone\\backend\\.env' });
 const mongoose = require("mongoose");
 const MONGO_URL = process.env.MONGO_URL;
 
